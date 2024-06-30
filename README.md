@@ -17,6 +17,3 @@ samples, guidance on mobile development, and a full API reference.
 
 
 This is a new readme line
-
-My project
-Ashan 
