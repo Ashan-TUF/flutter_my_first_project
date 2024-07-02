@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
-import 'package:my_first_app/data/user.dart';
+// import 'package:my_first_app/data/user.dart';
 import 'package:my_first_app/pages/age.dart';
 import 'package:my_first_app/pages/back.dart';
 import 'package:my_first_app/pages/child_page.dart';
